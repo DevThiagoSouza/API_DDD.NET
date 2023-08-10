@@ -1,0 +1,12 @@
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/bin/Debug/net6.0/Entites.deps.json
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/bin/Debug/net6.0/Entites.dll
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/bin/Debug/net6.0/Entites.pdb
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/obj/Debug/net6.0/Entites.csproj.AssemblyReference.cache
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/obj/Debug/net6.0/Entites.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/obj/Debug/net6.0/Entites.AssemblyInfoInputs.cache
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/obj/Debug/net6.0/Entites.AssemblyInfo.cs
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/obj/Debug/net6.0/Entites.csproj.CoreCompileInputs.cache
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/obj/Debug/net6.0/Entites.dll
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/obj/Debug/net6.0/refint/Entites.dll
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/obj/Debug/net6.0/Entites.pdb
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Entites/obj/Debug/net6.0/ref/Entites.dll

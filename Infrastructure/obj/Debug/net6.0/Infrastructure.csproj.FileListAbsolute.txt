@@ -1,0 +1,17 @@
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/bin/Debug/net6.0/Domain.dll
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/bin/Debug/net6.0/Entites.dll
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/bin/Debug/net6.0/Domain.pdb
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/bin/Debug/net6.0/Entites.pdb
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/obj/Debug/net6.0/refint/Infrastructure.dll
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
+/home/thiago/Documentos/Projetos Dev/API_DDD.NET/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
